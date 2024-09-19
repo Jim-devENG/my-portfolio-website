@@ -39,5 +39,9 @@
   },
   "devDependencies": {
     "ajv": "^7.2.4"
-  }
+  }, 
+  
+  "peerDependencies": {
+  "ajv": ">=8"
+}
 }
