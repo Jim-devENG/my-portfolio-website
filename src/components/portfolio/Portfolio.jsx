@@ -13,7 +13,7 @@ const data = [
   {
   id: 1,
   image: IMG1,
-  title: 'Food Delivery Ecommerce Application',
+  title: 'Food Delivery Ecommerce Application (click on "demo" to open -> Back to our site)',
   github: 'https://github.com/Jim-devENG/food-delivery-ecommerce',
   demo: 'https://food-delivery-ecommerce-application.netlify.app/home'
   },
