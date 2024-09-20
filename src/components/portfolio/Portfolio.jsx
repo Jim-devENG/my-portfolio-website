@@ -21,7 +21,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'A Music App (Open on system ONLY)',
+    title: 'A Music App (Open on system ONLY or "change your browser settings to desktop mode")',
     github: 'https://github.com/Jim-devENG/musicApp',
     demo: 'https://music-app-omega-five.vercel.app'
   },
