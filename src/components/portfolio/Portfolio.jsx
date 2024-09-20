@@ -96,14 +96,14 @@ const Portfolio = () => {
                   <a
                     href={github}
                     className="btn"
-                    target="_blank"
+                    target="_blank" rel="noopener noreferrer"
                   >
                     Github
                   </a>
                   <a
                     href={demo}
                     className="btn btn-primary"
-                    target="_blank"
+                    target="_blank" rel="noopener noreferrer"
                   >
                     Live Demo
                   </a>
