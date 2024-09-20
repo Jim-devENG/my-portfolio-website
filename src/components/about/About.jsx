@@ -32,7 +32,7 @@ const About = () => {
           </div>
 
           <p>
-          I am a highly skilled Frontend Developer with a keen eye for aesthetics 
+          I am a highly skilled Software Developer with a keen eye for aesthetics 
           and user interactions. My passion lies in the creative side of web development, 
           crafting effective solutions that address real-world challenges. My portfolio 
           includes designing and developing websites and web applications for real estate
